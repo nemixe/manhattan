@@ -1,0 +1,41 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.font-signika {
+  font-family: "Signika", sans-serif;
+}
+
+.bg-blue-cerulean {
+  background: #295bcc;
+}
+
+.bg-sasquatch-socks {
+  background: #f94777;
+}
+
+.bg-gradient-blue-transparent {
+  background: rgb(41, 91, 204);
+  background: linear-gradient(
+    0deg,
+    rgba(41, 91, 204, 1) 0%,
+    rgba(42, 92, 205, 0) 100%
+  );
+}
+
+.h-1\.5 {
+  height: 150%;
+}
+
+.m-2px {
+  margin: 2px;
+}
