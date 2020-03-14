@@ -39,3 +39,33 @@
 .m-2px {
   margin: 2px;
 }
+
+@media (min-width: 1920px) {
+  .four-k\:h-112 {
+    height: 28rem;
+  }
+
+  .four-k\:text-xl {
+    font-size: 1.25rem;
+  }
+
+  .four-k\:text-2xl {
+    font-size: 1.5rem;
+  }
+
+  .four-k\:text-3xl {
+    font-size: 1.875rem;
+  }
+
+  .four-k\:text-4xl {
+    font-size: 2.25rem;
+  }
+
+  .four-k\:text-6xl {
+    font-size: 4rem;
+  }
+
+  .four-k\:text-8xl {
+    font-size: 6rem;
+  }
+}
